@@ -6,17 +6,12 @@
   <a href="https://www.linkedin.com/in/luanaferraz/">
       <img alt="LinkedIn Luana Ferraz" src="https://img.shields.io/badge/-Luana Ferraz-273FAD?style=flat&logo=Linkedin&logoColor=white" />
   </a>
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/ferrazluana/watchme-movies
-?color=273FAD">
-  <img alt="Repository size" src="https://img.shields.io/github/languages/code-size/ferrazluana/watchme-movies
-?color=273FAD">
-  <a href="https://github.com/ferrazluana/watchme-movies
-/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ferrazluana/watchme-movies
-?color=273FAD">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/ferrazluana/watchme-movies?color=273FAD">
+  <img alt="Repository size" src="https://img.shields.io/github/languages/code-size/ferrazluana/watchme-movies?color=273FAD">
+  <a href="https://github.com/ferrazluana/watchme-movies/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ferrazluana/watchme-movies?color=273FAD">
   </a> 
-  <img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/ferrazluana/watchme-movies
-/total?logo=GitHub&style=flat&color=273FAD">
+  <img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/ferrazluana/watchme-movies/total?logo=GitHub&style=flat&color=273FAD">
   <img alt="License" src="https://img.shields.io/badge/license-MIT-273FAD">
 </p>
 
