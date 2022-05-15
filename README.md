@@ -17,7 +17,7 @@
 
 # 📖 About Project
 
-This application is the secont challenge from the [Ignite Bootcamp](https://rocketseat.com.br/ignite).
+This application is the second challenge from the [Ignite Bootcamp](https://rocketseat.com.br/ignite).
 
 The main objective of the challenge is to refactor a page for listing movies according to genre.
 
